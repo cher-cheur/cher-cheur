@@ -15,10 +15,15 @@
 
 ### 🌱 Mon Projet en Cours : Assistant Douanier IA
 
-Je développe actuellement **Assistant Douanier IA**, une application conversationnelle (RAG) conçue pour simplifier la classification douanière des produits. Elle guide les utilisateurs à travers la nomenclature complexe pour trouver rapidement le bon code à 10 chiffres et les informations associées (taxes, documents, etc.).
+Je développe actuellement un **Assistant Douanier IA**, une application conversationnelle (RAG) conçue pour simplifier la classification douanière des produits. Elle guide les utilisateurs à travers la nomenclature complexe pour trouver rapidement le bon code à 10 chiffres et les informations associées (taxes, documents, etc.).
 
 * **🎯 Objectif :** Transformer une recherche manuelle complexe et sujette à erreurs en un processus rapide, fiable et automatisé via une interface de chat intuitive.
-* **⚙️ Technologies :** <br><img src="https://skillicons.dev/icons?i=python,langchain,google,mongodb,docker,fastapi" alt="Technologies du projet" />
+* **⚙️ Technologies :** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 * **📝 État d'avancement :** Développement du pipeline IA (Sprint 3 en cours).
 
 ---
@@ -55,36 +60,41 @@ Je développe actuellement **Assistant Douanier IA**, une application conversati
 
 #### Science des Données & IA
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,gcp,mysql,mongodb" alt="Data Science & AI Skills" />
-  <img src="https://img.shields.io/badge/Scraping-orange" alt="Scraping" />
-  <img src="https://img.shields.io/badge/BI-yellow" alt="Business Intelligence" />
-  <img src="https://img.shields.io/badge/Machine_Learning-red" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-purple" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Scraping-orange?style=for-the-badge" alt="Scraping" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" alt="Machine Learning" />
 </p>
 
 #### Programmation & Développement
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,matlab,wordpress,shopify" alt="Programming & Development Skills" />
-  <img src="https://img.shields.io/badge/SQL-blue" alt="SQL" />
-  <img src="https://img.shields.io/badge/Orienté_Objet-green" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/Fonctionnel-lightgrey" alt="Functional Programming" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 #### Marketing Digital & Analyse
 <p>
-  <img src="https://skillicons.dev/icons?i=googleanalytics,googleads" alt="Digital Marketing & Analytics Skills" />
-  <img src="https://img.shields.io/badge/SEO-green" alt="SEO" />
-  <img src="https://img.shields.io/badge/SEA-orange" alt="SEA" />
-  <img src="https://img.shields.io/badge/Tag_Manager-blue" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/A/B_Test-purple" alt="A/B Testing" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/SEO-green?style=for-the-badge" alt="SEO" />
+  <img src="https://img.shields.io/badge/SEA-orange?style=for-the-badge" alt="SEA" />
+  <img src="https://img.shields.io/badge/Tag_Manager-4285F4?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
 </p>
 
 #### Outils & Gestion de Projet
 <p>
-  <img src="https://skillicons.dev/icons?i=jira,notion,confluence" alt="Tools & Project Management Skills" />
-  <img src="https://img.shields.io/badge/Office365-blue" alt="Office 365" />
-  <img src="https://img.shields.io/badge/G_Suite-orange" alt="Google Suite" />
-  <img src="https://img.shields.io/badge/CRM-green" alt="CRM" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Office_365-DD5128?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365" />
+  <img src="https://img.shields.io/badge/Google_Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite" />
 </p>
 
 ---
