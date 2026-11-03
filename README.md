@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Taha Daanoun 👋</h1>
 
 <p align="center">
-  <strong>Data & AI consultant and trainer</strong> · <a href="https://dataandai.org">Datanai</a><br>
-  9+ years turning data into decisions, and teaching others to do the same.
+  <strong>Data & AI consultant and trainer</strong> · <a href="https://dataandai.org">Data & AI Organization</a><br>
+  10 years turning data into decisions, and teaching others to do the same.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahadaanoun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://dataandai.org"><img src="https://img.shields.io/badge/Datanai-1f2041?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Datanai website"/></a>
-  <a href="mailto:contact@dataandai.org"><img src="https://img.shields.io/badge/Email-417b5a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dataandai.org"><img src="https://img.shields.io/badge/Data_%26_AI_Organization-1f2041?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Data & AI Organization website"/></a>
 </p>
 
 ---
@@ -25,7 +24,7 @@
 
 ## 👨‍🏫 Teaching
 
-I design and teach data, AI and programming courses, from first-year undergraduates to Master's students.
+I design and teach data, AI and programming courses, in higher education from first year to Master's level, and in professional training, from managers to executives.
 
 - **[formation-r](https://github.com/cher-cheur/formation-r)**: a hands-on introduction to R for beginners, from installing the workstation to statistics, with an exercise and its solution for every session, on real French education data.
 - **Subjects I teach:** AI development and AI with Python · data science for full-stack developers · scraping and data cleaning · data visualisation · programming paradigms · application and system architecture · maths and statistics for computing · web, CMS and no-code tools.
@@ -52,9 +51,9 @@ I design and teach data, AI and programming courses, from first-year undergradua
 
 ---
 
-## 💼 Experience
+## 💼 Previous experience
 
-- **eBusiness Consultant**, Business & Decision: for **L'Oréal**, measurement plans for e-commerce sites, restructuring of Google Analytics and Tag Manager 360 accounts, international coordination.
+- **eBusiness Consultant**, Business & Decision: measurement plans for e-commerce sites, restructuring of Google Analytics and Tag Manager 360 accounts, international coordination.
 - **Digital Analytics & Marketing Consultant**, Agence SW: Google Ads and Facebook Ads campaigns, web performance measurement.
 
 ## 🏆 Awards
