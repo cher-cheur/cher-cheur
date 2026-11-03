@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Taha Daanoun 👋</h1>
 
 <p align="center">
-  <strong>Data & AI consultant and trainer</strong> · <a href="https://dataandai.org">Data & AI Organization</a><br>
+  <strong>Data & AI consultant and trainer</strong> · Founder of <a href="https://dataandai.org">Data & AI Organization</a><br>
   10 years turning data into decisions, and teaching others to do the same.
 </p>
 
@@ -9,6 +9,19 @@
   <a href="https://www.linkedin.com/in/tahadaanoun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dataandai.org"><img src="https://img.shields.io/badge/Data_%26_AI_Organization-1f2041?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Data & AI Organization website"/></a>
 </p>
+
+---
+
+## 🤝 Services
+
+Through [Data & AI Organization](https://dataandai.org/services/), I help small and mid-sized European businesses turn their data into automated, reliable processes. Fixed-price projects, delivered in English or French.
+
+- **Data collection & preparation:** web scraping, data extraction and pipelines that gather prices, listings, leads or business data automatically, then clean and structure it.
+- **Dashboards, analytics & machine learning:** always up-to-date dashboards that replace manual reports, plus forecasting and predictive models.
+- **AI automation, AI agents & chatbots:** AI that processes e-mails, invoices and documents, agents that handle multi-step tasks, and chatbots that answer from your own documents.
+- **AI consulting & training:** an audit of where AI would really pay off, GDPR and EU AI Act readiness, and hands-on training for your teams.
+
+👉 [Book a free 30-minute call](https://dataandai.org/contact/)
 
 ---
 
@@ -24,7 +37,7 @@
 
 ## 👨‍🏫 Teaching
 
-I design and teach data, AI and programming courses, in higher education from first year to Master's level, and in professional training, from managers to executives.
+I design and teach data, AI and programming courses, in higher education from first year to Master's level, and in professional training, from managers to executives. More than 500 apprentices trained in computer science, data and AI.
 
 - **[formation-r](https://github.com/cher-cheur/formation-r)**: a hands-on introduction to R for beginners, from installing the workstation to statistics, with an exercise and its solution for every session, on real French education data.
 - **Subjects I teach:** AI development and AI with Python · data science for full-stack developers · scraping and data cleaning · data visualisation · programming paradigms · application and system architecture · maths and statistics for computing · web, CMS and no-code tools.
