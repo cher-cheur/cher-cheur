@@ -12,6 +12,16 @@
 
 ---
 
+## 🚢 Live: [Portoria.app](https://portoria.app)
+
+**The US Harmonized Tariff Schedule, made readable.** Every one of its 29,861 codes has its own page with an AI-written overview, its duty rates and the notes of its chapter.
+
+- **Always up to date.** A daily pipeline checks the US International Trade Commission for a new revision, then updates the data, writes overviews for new or changed codes, rebuilds the site and deploys it, with no manual step.
+- **Change alerts.** Follow any code and get an e-mail when a new revision changes it.
+- **Built with** Python (static site generator), Gemini, Cloudflare Workers and D1, GitHub Actions.
+
+---
+
 ## 🤝 Services
 
 Through [Data & AI Organization](https://dataandai.org/services/), I help small and mid-sized European businesses turn their data into automated, reliable processes. Fixed-price projects, delivered in English or French.
@@ -22,16 +32,6 @@ Through [Data & AI Organization](https://dataandai.org/services/), I help small 
 - **AI consulting & training:** an audit of where AI would really pay off, GDPR and EU AI Act readiness, and hands-on training for your teams.
 
 👉 [Book a free 30-minute call](https://dataandai.org/contact/)
-
----
-
-## 🚢 Live: [Portoria.app](https://portoria.app)
-
-**The US Harmonized Tariff Schedule, made readable.** Every one of its 29,861 codes has its own page with an AI-written overview, its duty rates and the notes of its chapter.
-
-- **Always up to date.** A daily pipeline checks the US International Trade Commission for a new revision, then updates the data, writes overviews for new or changed codes, rebuilds the site and deploys it, with no manual step.
-- **Change alerts.** Follow any code and get an e-mail when a new revision changes it.
-- **Built with** Python (static site generator), Gemini, Cloudflare Workers and D1, GitHub Actions.
 
 ---
 
